@@ -1,5 +1,5 @@
-username = ["May", "Rie", "Zoren", "VonZoren"]
-password = ["password123", "zoren123", "12345", "Rie12345"]
+username = ["Username]
+password = ["Password"]
 x = 'y'
 total = 0
 payment = 0
